@@ -1,4 +1,4 @@
-# The-K-Means-Clustering-Algorithm-for-Network-Intrusion-Detection
+# The K-Means Clustering Algorithm for Network Intrusion Detection
 
 ## Installation
 **Importing Libraries**</br>
